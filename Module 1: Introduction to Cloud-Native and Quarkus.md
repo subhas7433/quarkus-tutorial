@@ -1,8 +1,3 @@
-
-**Module 1: Introduction to Cloud-Native and Quarkus**
-
-**Goal:** To understand what "cloud-native" means, why it's important, and how Quarkus fits into this world. We'll also get our hands dirty by setting up our environment and creating a simple "Hello, World!" app with Quarkus.
-
 **1.1 What are Cloud-Native Applications? (1-1.5 hours)**
 
 *   **Think of the Cloud Like a Big, Flexible Computer:** Imagine a giant computer that you can rent parts of. That's kind of what the "cloud" is. Instead of having servers in your office, you use computers on the internet.
