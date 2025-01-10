@@ -1,7 +1,3 @@
-**Module 4: Data Persistence with Hibernate ORM with Panache and JDBC **
-
-**Goal (for 4.1 & 4.2):** To understand the concept of Object-Relational Mapping (ORM) and how Hibernate ORM provides an abstraction layer for interacting with relational databases. Students will learn why ORM is important and how to set up a simple entity mapping with Hibernate.
-
 **4.1 Introduction to Object-Relational Mapping (ORM) (1.5 - 2 hours)**
 
 *   **The Impedance Mismatch Problem:**
